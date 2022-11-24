@@ -5,7 +5,7 @@ Given the data for a hospital which contains information about the age, gender, 
 We did EDA to find out the relation of the blood quantity requested with the age, gender, week of the day. Some of the insights we found out were:-  
 >Males require more blood than females  
 Children and teenagers require significantly higher levels of blood than adults  
-There are small variations in average quantity of blood demanded with the day of the week, like on Sundays the average quantity of blood required is about half the blood quantity required on mondays.
+There are variations in average quantity of blood demanded with the day of the week, like on Sundays the average quantity of blood required is about half the blood quantity required on mondays.
 
 # Feature Engineering:-   
 
