@@ -8,5 +8,5 @@ This repo contains my work on Blood Demand Prediction under the company That Wis
 Option 1: Prediction for each blood component scaled by the % prevalence of corresponding blood group  
 Option 2: Prediction for each unique blood component & blood group combination  
 # Results   
-Option 2 gives better predictions than option 1 for most of the combinations  
-R-squared comes close to about 0.66 for one of the most common blood (group x component) combination
+• Option 2 gives better predictions than option 1 for most of the combinations  
+• R-squared comes close to about 0.66 for one of the most common blood (group x component) combination
